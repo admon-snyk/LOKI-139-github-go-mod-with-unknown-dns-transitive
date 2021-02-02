@@ -1,4 +1,4 @@
-module github1.com/admon-synk/LOKI-139-github-go-mod-with-unknown-dns-transitive
+module admon.com/admon-synk/LOKI-139-github-go-mod-with-unknown-dns-transitive
 
 go 1.15
 
